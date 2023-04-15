@@ -1,0 +1,58 @@
+.header{
+	background-color: #0f0f0f;
+	color: #ffffff;
+
+}
+.inner-header{
+	background-color: #0f0f0f;
+	color: #ffffff;
+}
+
+.logo-container{
+	background-color: #0f0f0f;
+	color: #ff0000;
+	padding: 5px 20px;
+	width: 30%;
+}
+
+.nav{
+	height: 100%;
+	width: 100%
+}
+
+.navigation{
+    float: right;
+    height: 100%;
+	position: relative;
+	top: -80px;
+}
+ 
+.navigation a{
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 0px 20px;
+    background-color: #101010;
+}
+ 
+.navigation a li{
+    vertical-align: middle;
+    display: table-cell;
+    font-size: 30px;
+    color: white;
+}
+ 
+.navigation a:hover{
+    background-color: gray;
+    color: #101010;
+}
+
+#p01 {
+    padding: 20px 20px;
+	margin-left: 20px;
+	font-size: 18px;
+}
+
+#i01 {
+    margin: 20px;
+}
